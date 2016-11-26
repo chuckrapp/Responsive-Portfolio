@@ -163,10 +163,6 @@ footer {
 .box {
 	height: 200px;
 	width: 250px;
-<<<<<<< HEAD
-=======
-	background-color: #eeeeee;
->>>>>>> 2c93d91a4925e996afd440bb65633d0967058bd5
 	margin: 20px;
 	float: left;
 }
@@ -177,15 +173,8 @@ footer {
 	text-align: center;
 	color: #eeeeee;
 	padding-top: 17px;
-<<<<<<< HEAD
-	/*margin-top: 125px;*/
 	position: relative;
 	top: 120px;
-=======
-	margin-top: 125px;
-	position: relative;
-	bottom: 5px;
->>>>>>> 2c93d91a4925e996afd440bb65633d0967058bd5
 }
 
 .push{
@@ -237,13 +226,6 @@ footer {
 
 @media screen and (max-width: 980px) {   
 
-<<<<<<< HEAD
-=======
-	body {
-		background: #333;
-	}
-
->>>>>>> 2c93d91a4925e996afd440bb65633d0967058bd5
 	#outer-div {   /*Shortens the width of the wrapper*/
 		width: 90%;
 	}
@@ -253,11 +235,7 @@ footer {
 	}
 
 	#head-container {
-<<<<<<< HEAD
 		width: 90%;
-=======
-		width: 702px;
->>>>>>> 2c93d91a4925e996afd440bb65633d0967058bd5
 	}
 
 	#connect {  /*Changes the width of the Connect With Me div*/
@@ -281,7 +259,6 @@ footer {
 
 	.box {
 		display: block;
-<<<<<<< HEAD
 		margin: 25px auto 25px auto;
 		clear: both;
 		float: none;
@@ -290,34 +267,12 @@ footer {
 	a {
 		text-decoration: none;
 	}
-=======
-		margin: auto;
-		clear: both;
-		margin: 10px 0px 10px 0px;
-	}
-	.imgtitle {
-		/*background-color: #4aaaa5;
-		height: 60px;
-		text-align: center;
-		color: #eeeeee;*/
-		padding-top: 17px;
-		margin-top: 125px;
-		position: relative;
-		bottom: 5px;
-}
->>>>>>> 2c93d91a4925e996afd440bb65633d0967058bd5
 
 }
 
 @media screen and (max-width: 768px) {  
 
-<<<<<<< HEAD
-=======
-	body {
-		background: #eee;
-	}
 
->>>>>>> 2c93d91a4925e996afd440bb65633d0967058bd5
 	#outer-div {   /*changes the size of the wrapper*/
 		width: 90%;
 	}
@@ -357,15 +312,7 @@ footer {
 }
 
 @media screen and (max-width: 640px) {
-<<<<<<< HEAD
-		
-=======
-	
-	body {
-		background: #eee;
-	}
-	
->>>>>>> 2c93d91a4925e996afd440bb65633d0967058bd5
+
 	header {
 		height: 150px;
 	}
